@@ -1,2 +1,3 @@
 "Pane, latte, cioccolata" 
 "cereali, yogurt" 
+"Formaggio, gelato" 
